@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @anivartha
-- 👀 I’m interested in CODING, WEB DEVELOPMENT,GAME DEVEOPMENT
+- 👀 I’m interested in CODING, WEB DEVELOPMENT & GAME DEVEOPMENT
 - 🌱 I’m currently learning Engineering
-- 💞️ I’m looking to collaborate on ...PYTHON CODING 
+- 💞️ I’m looking to collaborate on PYTHON CODING 
 - 📫 How to reach me ...
 
 <!---
